@@ -1,5 +1,16 @@
 # Welcome! 
-This is  Aaron Ho's Computing portfolio
+_Hello_ *world*! I am **Lim Ah Seng**, __student__ in [Dunman High School](https://www.dhs.sg).
+
+My hobbies
+* eating
+* sleeping
+* studying
+
+My education
+1. ABC Primary School
+2. Dunman High School
+
+![My favorite fruit](banana.jpg)
 
 ## My stories
 Please read my stories and contribute to them! You can find the stories in the folders above.
