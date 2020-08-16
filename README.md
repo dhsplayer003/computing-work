@@ -10,7 +10,7 @@ My education
 1. ABC Primary School
 2. Dunman High School
 
-![My favorite fruit](banana.jpg)
+![My favorite fruit](happy.jpg)
 
 ## My stories
 Please read my stories and contribute to them! You can find the stories in the folders above.
